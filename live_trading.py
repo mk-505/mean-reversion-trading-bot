@@ -11,8 +11,8 @@ model = joblib.load("mean_reversion_model.pkl")
 scaler = joblib.load("scaler.pkl")
 
 # Alpaca API credentials
-API_KEY = "PK4QSYAFABZ7GGOMUJHV"
-SECRET_KEY = "248NKTrzyR809tLgy6AUlQ7E9fdU5JVTmsgxynxi"
+API_KEY = "INSERT UR KEY HERE"
+SECRET_KEY = "INSERT UR KEY HERE"
 BASE_URL = "https://paper-api.alpaca.markets"
 
 # Initialize Alpaca API
